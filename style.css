@@ -1,0 +1,30 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #111;
+    color: white;
+}
+header {
+    text-align: center;
+    padding: 20px;
+}
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid white;
+}
+.videos iframe {
+    width: 100%;
+    height: 400px;
+    margin-bottom: 20px;
+}
+.skills, .software {
+    padding: 20px;
+}
+h2 {
+    border-bottom: 2px solid white;
+    padding-bottom: 10px;
+}
